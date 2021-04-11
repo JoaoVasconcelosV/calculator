@@ -1,7 +1,7 @@
 ## :pushpin: About
 A simple calculator in ReactJS, using the hooks
 
-##Available on the link
+## :computer: Available on the link
 Calculator(https://calculator-reactjs-hooks.netlify.app/)
 
 ## :rocket: Getting start
