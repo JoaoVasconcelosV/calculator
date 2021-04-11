@@ -1,0 +1,10 @@
+.display {
+  font-size: 3em;
+  grid-column: span 4;
+  background: #0005;
+
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 20px
+}
