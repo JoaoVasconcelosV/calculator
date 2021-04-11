@@ -21,6 +21,8 @@ Calculator(https://calculator-reactjs-hooks.netlify.app/)
   $ yarn
   $ yarn start
 
+  Or
+
   $ npm i
   $ npm run start
 ```
