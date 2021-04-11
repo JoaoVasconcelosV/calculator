@@ -6,7 +6,7 @@ Calculator(https://calculator-reactjs-hooks.netlify.app/)
 
 ## :rocket: Getting start
 
-- **Prerequisite**: It is necessary to have **Git** and the package manager **Yarn**
+- **Prerequisite**: It is necessary to have **Git** and a package manager **Yarn** or **Npm**
 
 - **Clone the repository**:
 
@@ -20,4 +20,7 @@ Calculator(https://calculator-reactjs-hooks.netlify.app/)
   # cd calculator
   $ yarn
   $ yarn start
+
+  $ npm i
+  $ npm run start
 ```
