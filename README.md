@@ -2,7 +2,7 @@
 A calculator in ReactJS, using the hooks
 
 ## :computer: Available on the link
-Calculator(https://calculator-reactjs-hooks.netlify.app/)
+[Calculator](https://calculator-reactjs-hooks.netlify.app/)
 
 ## :rocket: Getting start
 
